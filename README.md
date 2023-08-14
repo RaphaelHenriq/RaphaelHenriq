@@ -1,11 +1,11 @@
 # Hey world 👋
 
-My name is Raphael Henrique I am a computer engineer 👨🏼‍💻 and I have been working with mobile development since 2019.
+My name is Raphael Henrique I am a computer engineer 👨🏼‍💻 and I have been working with mobile development since 2018.
 
 I am enthusiastic about mobile development 📱, mainly iOS development and passionate about solving problems 📈 and looking for new challenges.
 
 - 🇧🇷 From live in Belo Horizonte, Brazil
-- 💻 iOS Developer at Itaú Unibanco
+- 💻 iOS Developer at iFood
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-henrique-b72988161)](https://www.linkedin.com/in/raphael-henrique-b72988161)
 [![Gmail Badge](https://img.shields.io/badge/-raphael.engh@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphael.engh@gmail.com)](mailto:raphael.engh@gmail.com)
